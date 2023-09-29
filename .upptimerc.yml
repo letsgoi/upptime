@@ -1,16 +1,56 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: letsgoi # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Api Spinal-Cord
+    url: https://api-spinal-cord.letsgoi.com/droids
+  - name: Brain
+    url: https://brain.letsgoi.com    
+  - name: Veins
+    url: https://veins.letsgoi.com        
+  - name: Api Jaw
+    url: https://api-jaw.letsgoi.com/droids
+  - name: Api Chin
+    url: https://api-chin.letsgoi.com/droids
+  - name: Chin
+    url: https://chin.letsgoi.com
+  - name: Api Thumbs
+    url: https://api-thumb.letsgoi.com/droids
+  - name: Thumbs
+    url: https://thumb.letsgoi.com    
+  - name: WH N8N
+    url: https://wh.letsgoi.com    
+  - name: Grafana
+    url: https://grafana.letsgoi.com
+  - name: Api Grom
+    url: https://grom-vroom.letsgoi.com/health    
+  - name: Api Peek
+    url: https://api-peek.letsgoi.com/droids
+  - name: Peek
+    url: https://peek.letsgoi.com   
+  - name: Api Eyes
+    url: https://api-eyes.letsgoi.com/droids
+  - name: Api Eardrums
+    url: https://api-eardrums.letsgoi.com/droids
+  - name: Api Nose
+    url: https://api-nose.letsgoi.com/droids
+  - name: Api Skin
+    url: https://api-skin.letsgoi.com/droids
+  - name: Api DNA
+    url: https://api-dna.letsgoi.com/droids
+  - name: DNA
+    url: https://dna.letsgoi.com  
+  - name: Api Cell
+    url: https://api-cell.letsgoi.com/droids
+  - name: Api Throat
+    url: https://api-throat.letsgoi.com/droids  
+  - name: Api Tongue
+    url: https://api-tongue.letsgoi.com/droids      
+  - name: Api Cortex
+    url: https://api-cortex.letsgoi.com/droids    
+
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -18,9 +58,9 @@ status-website:
   cname: demo.upptime.js.org
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Goi Status Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: This is a status Goi services which uses **real-time** data from our [GitHub repository](https://github.com/letsgoi/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
