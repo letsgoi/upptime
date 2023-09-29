@@ -29,4 +29,4 @@ jobs:
         with:
           command: "graphs"
         env:
-          GH_PAT: ${{ vars.personal_token || github.token }}
+          GH_PAT: ${{ secrets.GH_PAT || github.token }}
